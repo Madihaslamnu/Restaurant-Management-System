@@ -1,0 +1,6 @@
+=========== EMPLOYEE DATA =========
+File ID,Role,Name,Salary,Password
+100,Owner,Madiha,100000,2328697251
+101,Manager,Tasbiha,80000,2572988805
+102,Cashier,Zain,50000,2849762685
+

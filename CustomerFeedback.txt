@@ -1,0 +1,21 @@
+2022,5,highly recommend this restaurant
+2022,3,good value for money
+2022,4,pleasant surprise
+2022,4,delicious desserts
+2023,4,the service was excellent
+2023,3,food quality needs improvement
+2023,2,would not visit again
+2023,5,amazing food and service
+2023,4,will definitely come back
+2023,4,loved the outdoor seating
+2024,3,we loved the food here
+2024,4,friendly staff and good atmosphere
+2024,3,satisfactory experience
+2024,2,disappointed with the portion size
+2024,3,interesting menu options
+2024,5,absolutely fantastic meal
+2025,2,the ambiance was disappointing
+2025,4,great experience overall
+2025,3,average dining experience
+2025,5,exceeded expectations
+13 May 2024,2,none
